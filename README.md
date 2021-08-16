@@ -7,6 +7,6 @@ Calcula a quantidade de comida e bebida necessário para realizar o seu churrasc
 * CSS
 * Javascript
 
-![Image Slide](churras2.png)
+![churrascometro](churras2.png)
 * ## Exemplo:
-![Image Slide](churras.png)
+![churrascometro](churras.png)
