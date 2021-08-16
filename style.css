@@ -5,6 +5,8 @@
   background-color: #B0E0E6;
   padding: 30px;
   border-radius: 40px;
+  
+
 }
 input{
   width: 100%;
@@ -25,4 +27,8 @@ h1{
 }
 #resultado{
   color: black;;
+}
+img{
+ width: 500px;  
+ float: left;
 }
